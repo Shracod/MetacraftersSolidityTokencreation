@@ -20,6 +20,7 @@ contract Tokenattrbt {
     // public variables here
     string public token_name = "AmericanNightmare";
     string public token_abbrv = "AN";
+    string public token_shape = "Square;
     uint public total_supply = 0;
 
     // mapping variable here
